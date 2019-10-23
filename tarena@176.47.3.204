@@ -1,0 +1,12 @@
+
+echo "看到这行字，说明添加自启动脚本成功。" > /usr/local/test.log
+icho "看到这行字，说明添加自启动脚本成功。" > /usr/local/test.log
+echo "看到这行字，说明添加自启动脚本成功。" > /usr/local/test.log
+print("家里没有一粒米")
+print("家里没说有一粒米")
+
+
+
+print("家里没有一粒米")
+print("家里没有一粒米")
+prtint
